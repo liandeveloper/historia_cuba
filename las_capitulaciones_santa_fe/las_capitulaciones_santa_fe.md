@@ -1,10 +1,6 @@
-<div style="text-align: center;">
-  <h1>Las Capitulaciones de Santa Fe: Análisis Histórico-Jurídico</h1>
-</div>
+# Las Capitulaciones de Santa Fe: Análisis Histórico-Jurídico
 
-<div style="text-align: center;">
-  <img src="img/banner2.jpg" alt="Descripción de la imagen"/>
-</div>
+<img src="img/banner2.jpg" alt="Descripción de la imagen"/>
 
 Las Capitulaciones de Santa Fe constituyen uno de los documentos más trascendentales en la historia de América, al establecer el marco jurídico que posibilitó el viaje de Cristóbal Colón y la posterior colonización española del continente americano. Este acuerdo, firmado el 17 de abril de 1492 en Santa Fe de Granada, representa el contrato formal entre los Reyes Católicos (Fernando e Isabel) y Cristóbal Colón, estableciendo las condiciones, privilegios y beneficios que obtendría el navegante en caso de éxito en su empresa.
 
@@ -30,9 +26,7 @@ Las Capitulaciones representan un ejemplo paradigmático del derecho indiano tem
 
 ## Impacto y Relevancia en el Proceso de Colonización
 
-<div style="text-align: center;">
-  <img src="img/banner4.jpg" alt="Descripción de la imagen"/>
-</div>
+<img src="img/banner4.jpg" alt="Descripción de la imagen"/>
 
 - **Legitimación del Descubrimiento**:
   El documento no solo confería legitimidad legal a la expedición, sino que también establecía un precedente para futuras políticas de expansión.
